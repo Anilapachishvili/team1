@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body {
   background-color: #e5e5e5;
   margin: 0;
@@ -33,4 +36,19 @@ body {
   color: #ffffff;
   background-color: #333333;
   margin: 40px 0 0 0px;
+}
+.container {
+  display: flex;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  float: right;
+  font-weight: 400;
+  font-size: 20px;
+  float: right;
+  margin-right: 0;
+}
+
+.pic {
+  margin-top: 200px;
 }

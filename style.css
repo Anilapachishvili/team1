@@ -1,0 +1,36 @@
+body {
+  background-color: #e5e5e5;
+  margin: 0;
+}
+.left_side {
+  width: 22%;
+  height: 715px;
+  background-color: #2f80ed;
+}
+.logo {
+  display: inline block;
+  margin-bottom: 100px;
+}
+.simple {
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.signup {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 15px 80px 15px 80px;
+  color: #ffffff;
+  background-color: #333333;
+}
+.login {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 15px 87px 15px 87px;
+  color: #ffffff;
+  background-color: #333333;
+  margin: 40px 0 0 0px;
+}
